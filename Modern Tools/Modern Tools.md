@@ -1,0 +1,23 @@
+The main resource here is [maintained-modern-unix](https://github.com/johnalanwoods/maintained-modern-unix)
+
+- [ ] Look through the list and choose some tools that might be useful to you
+  - Maybe you use a commin UNIX-tool that you think is too complicated to use
+  - There is more, but
+- Some tools we think might be especially interesting
+  - [ ] tldr
+    - It gives you a quick overview over how to use a command
+    - I like this implementation most [tealdeer](https://github.com/tealdeer-rs/tealdeer)
+  - [ ] rsync
+    - Powerful file copying tool that also works for remote machines
+    - use tldr for good overview
+  - [ ] [zoxide](https://zoxide.org/)
+    - jump to directories more easily (smarter cd)
+  - [ ] [ripgrep](https://github.com/BurntSushi/ripgrep)
+    - fast and sane grep
+  - [ ] [fd](https://github.com/sharkdp/fd)
+    - fast and sane find
+  - [ ] [btop](https://github.com/aristocratos/btop)
+    - modern resource usage monitor with gpu support
+  - [ ] [papis](https://papis.readthedocs.io/en/latest/)
+    - bibliography management in the commandline
+
