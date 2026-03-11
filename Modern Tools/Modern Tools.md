@@ -20,4 +20,6 @@ The main resource here is [maintained-modern-unix](https://github.com/johnalanwo
     - modern resource usage monitor with gpu support
   - [ ] [papis](https://papis.readthedocs.io/en/latest/)
     - bibliography management in the commandline
-
+  - [ ] [tmux](https://github.com/tmux/tmux/wiki/Getting-Started)
+    - terminal multiplexer
+    - *take a look at "Automations", there we go more in-depth*

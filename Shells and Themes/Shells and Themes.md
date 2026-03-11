@@ -1,5 +1,15 @@
 # Shell Overview
 
+The most quality of life in shells comes from (heavily subjective):
+
+- autocompletion
+- plugin/theme support
+- history
+- globbing
+- intuitive syntax
+
+The shells mostly differ in these points.
+
 - [ ] Decide on which shell you want to use
   - roughly sorted from "old and stable" to "new and feature rich"
   - bash

@@ -6,21 +6,37 @@ We tried to keep each topic short, so that you may combine multiple ones. *Feel 
 
 Here is a short introduction to what the topics are about:
 
-## Theming - TODO
+## Shells and Theming
 
-- Sane default setup together with [Shells](#shells-todo)
-- p10k + oh-my-zsh
-- starship
+- Shells from "old and ubuquitous" to "new and feature-filled"
+- Mostly about better interface, syntax and customization
 
-## Shells - TODO
+### Theme Examples
 
-- zsh vs bash vs fish vs nushell
-- Quick introduction to different shells philosophy and tooling
+![Powerlevel10k (ZSH)](https://raw.githubusercontent.com/romkatv/powerlevel10k-media/master/prompt-styles-high-contrast.png)  
+**Powerlevel10k (ZSH)**
 
-## Modern tools - TODO
+![Starhsip "Nerd Font Symbols"](https://starship.rs/presets/img/nerd-font-symbols.png)  
+**Starship "Nerd Font Symbols" (any shell)**
 
-- a look at replacements for classic tools
-- rsync
+### Feature Examples
+
+![Autocompletion](https://www.amitmerchant.com/images/fish-autocompletion-2.png)  
+**Autocompletion (here: fish)**
+
+![Shell History](https://user-images.githubusercontent.com/9599/165371428-69f60fa5-0ad6-4d7a-a476-79d88c8b6959.png)  
+**Shell History (here: atuin)**  
+
+![Git Status](https://user-images.githubusercontent.com/54011163/226490778-f257f682-1455-49d4-838a-f11afc58dd76.png)  
+**Git Status (here: Powerlevel10k)**
+
+
+## Modern tools
+
+- (Mostly) replacement tools for older standard ones that
+  - have better defaults
+  - are faster
+  - look prettier
 
 ## Automations - TODO
 
