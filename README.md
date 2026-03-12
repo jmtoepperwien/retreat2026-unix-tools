@@ -38,18 +38,11 @@ Here is a short introduction to what the topics are about:
   - are faster
   - look prettier
 
-## Automations - TODO
+## Automations
 
 - Keybindings
 - Layout tricks
-- tmux and screen as a cluster monitor
 
-## Pipelines - TODO
+## Pipelines
 
-- connect this with direnv?
-- Latex
-
-## Editors - TODO
-
-- Neovim distribution?
-- helix & emacs
+- Latex for when Overleaf is down 
