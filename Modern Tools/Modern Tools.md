@@ -23,5 +23,16 @@ The main resource here is [maintained-modern-unix](https://github.com/johnalanwo
   - [ ] [tmux](https://github.com/tmux/tmux/wiki/Getting-Started)
     - terminal multiplexer
     - *take a look at "Automations", there we go more in-depth*
+  - [ ] [mosh](https://github.com/mobile-shell/mosh)
+    - mobile shell
+    - keep the SSH connection alive when loosing internet, changing WIFI, or hibernating your laptop over night
+    - use together with TMUX to minimize the time you require to connect to the cluster
   - [ ] ncdu
     - look at what files take up space interactively
+  - [ ] [dust](https://github.com/bootandy/dust)
+    - substantially faster versions of the classic `du` program with useful defauls
+    - there are also plenty of other [rewrites of classic UNIX tools in Rust](https://github.com/ibraheemdev/modern-unix)
+    - alternative to ncdu
+  - [ ] [ranger](https://github.com/ibraheemdev/modern-unix)
+    - CLI browser (with VIM keybindings)
+    - allows to to browse your experiment outputs on the cluster efficiently
