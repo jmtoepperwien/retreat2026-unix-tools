@@ -23,3 +23,5 @@ The main resource here is [maintained-modern-unix](https://github.com/johnalanwo
   - [ ] [tmux](https://github.com/tmux/tmux/wiki/Getting-Started)
     - terminal multiplexer
     - *take a look at "Automations", there we go more in-depth*
+  - [ ] ncdu
+    - look at what files take up space interactively
