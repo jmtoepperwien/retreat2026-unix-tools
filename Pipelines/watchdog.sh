@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Configuration
-MAIN="manuscript"
+MAIN="main"
 TEMP_EXTS=("aux" "log" "out" "toc" "fdb_latexmk" "fls" "synctex.gz" "bbl" "blg" "bcf" "run.xml")
 
 # --- Cleanup Function ---
