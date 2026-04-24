@@ -23,6 +23,8 @@ The main resource here is [maintained-modern-unix](https://github.com/johnalanwo
   - [ ] [tmux](https://github.com/tmux/tmux/wiki/Getting-Started)
     - terminal multiplexer
     - *take a look at "Automations", there we go more in-depth*
+  - [ ] [zellij](https://zellij.dev/)
+    - a tmux alternative that provides a sane default configuration ("Terminal Workspace with Batteries included")
   - [ ] [mosh](https://github.com/mobile-shell/mosh)
     - mobile shell
     - keep the SSH connection alive when loosing internet, changing WIFI, or hibernating your laptop over night
